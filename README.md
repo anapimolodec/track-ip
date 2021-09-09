@@ -1,9 +1,9 @@
-# IP address tracker simple website
+# :round_pushpin: IP address tracker simple website
 
 This is my solution to the [IP address tracker challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0). 
 
 
-## Table of contents
+## :sparkles:Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
@@ -16,7 +16,7 @@ This is my solution to the [IP address tracker challenge on Frontend Mentor](htt
   - 
 ## Overview
 
-### The challenge
+### :mega: The challenge
 
 Users should be able to:
 
@@ -25,17 +25,17 @@ Users should be able to:
 - See their own IP address on the map on the initial page load
 - Search for any IP addresses and see the key information and location
 
-### Screenshot
+### :camera: Screenshot
 
 
-### Links
+### :anchor: Links
 
 - Solution URL: [this GH repo](https://github.com/anapimolodec/track-ip/)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
-### Built with
+### :hammer: Built with
 
 - Semantic HTML5 markup
 - CSS (with Flexbox)
@@ -45,11 +45,11 @@ Users should be able to:
 
 
 
-### What I learned
+### :muscle: What I learned
 
 
 
-### Useful resources
+### :star2: Useful resources
 
 - [Glassmorphism Tutorial](https://www.youtube.com/watch?v=mW0Z1T8l7sU&t=420s&ab_channel=OnlineTutorials) - good video tutorials on CSS, JS, HTML
 - [uiGradients](https://uigradients.com/#IbizaSunset/) - collection of appealing gradients
