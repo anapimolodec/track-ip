@@ -26,12 +26,14 @@ Users should be able to:
 - Search for any IP addresses and see the key information and location
 
 ### :camera: Screenshot
+![image](https://user-images.githubusercontent.com/47024219/133368625-18b448e7-da1b-46e4-b47f-276a4808836d.png)
+![image](https://user-images.githubusercontent.com/47024219/133368671-bd1197ae-a5f5-4228-ad4d-f319065e07b6.png)
 
 
 ### :anchor: Links
 
 - Solution URL: [this GH repo](https://github.com/anapimolodec/track-ip/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [click here](https://track-ip.vercel.app/)
 
 ## My process
 
@@ -42,12 +44,12 @@ Users should be able to:
 - Javascript (with fetch calls)
 - [Geo IPify API](https://geo.ipify.org/docs) - For IP API
 - [Leaflef JS](https://leafletjs.com/) - for showing map
-
+- [Vercel](https://vercel.com/) - for free deployment
 
 
 ### :muscle: What I learned
 
-
+I have practiced fetching from API and learnt how to use GeoIPify API and how to embed a map into the website. Also, I tried to use glassmorphism for some elements. 
 
 ### :star2: Useful resources
 
