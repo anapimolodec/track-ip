@@ -148,7 +148,7 @@ html, body {
 		}
 	
 
-		@media only screen and (max-width: 750px) {
+		@media only screen and (max-width: 850px) {
 			html, body {
 				overflow: scroll;
 			}
@@ -158,6 +158,11 @@ html, body {
 		    .search-results {
 				flex-direction: column;
 			}
+			.result-wrap {
+			
+			padding-right: 5vw;
+			padding-left: 5vw;
+		}
 			.row-1 {
 				width: 100%;
 			}
@@ -165,13 +170,18 @@ html, body {
 				width:  50%;
 			}
 		}
-		@media only screen and (max-width: 450px) {
+		@media only screen and (max-width: 550px) {
 			.back-img {
 				height:80vh;
 			}
 		    .search-results {
 			flex-direction: column;
 			}
+			.result-wrap {
+			
+			padding-right: 50px;
+			padding-left: 50px;
+		}
 			.row-1 {
 				flex-direction: column;
 				width: 100%;
