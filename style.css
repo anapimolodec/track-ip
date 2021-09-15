@@ -8,6 +8,7 @@ html, body {
 			overflow: hidden;
 			letter-spacing: 1px;
 			color:  white;
+
 }
 .result-wrap {
 			padding-top: 50px;
@@ -18,11 +19,12 @@ html, body {
 			justify-content: flex-start;
 			align-content: center;
 			width: 80vw;
-			height: 100%;
+			
 			text-align: center;
 			position: absolute;
 			top:  0;
 			z-index: 1000;
+			margin-bottom: 100px;
 		}
 		
 		span {
@@ -33,7 +35,7 @@ html, body {
 		}
 		.back-img {
 			width: 100%;
-			height: 45vh;
+			height: 40vh;
 
 			background: #0f0c29;  /* fallback for old browsers */
 			background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
@@ -101,8 +103,9 @@ html, body {
 			width: auto;
 			display: flex;
 			flex-direction: row;
-			justify-content: center;
-			align-content: center;
+			/*justify-content: center;
+			align-content: center;*/
+			height: auto;
 			min-height:  100px;
 			background-color: rgba(255,255,255,0.1);
 			border-radius: 10px;
@@ -117,9 +120,8 @@ html, body {
 		.row-1 {
 			display: flex;
 			flex-direction: row;
-			justify-content: center;
-			align-content: center;
 			width: 50%;
+
 		}
 		.box {
 			/*height: 100%;*/
@@ -133,12 +135,12 @@ html, body {
 		.box h5 {
 			font-weight: 700;
 			color: white;
-			font-size: 0.8rem;
+			font-size: 0.5rem;
 		}
 
 		.box span{
 			color: white;
-			font-size: 2rem;
+			font-size: 1rem;
 			/*color: #0f0c29;*/
 		}
 
@@ -160,14 +162,14 @@ html, body {
 			}
 			.result-wrap {
 			
-			padding-right: 5vw;
-			padding-left: 5vw;
 		}
 			.row-1 {
 				width: 100%;
 			}
 			.box {
 				width:  50%;
+				text-align: center;
+
 			}
 		}
 		@media only screen and (max-width: 550px) {
@@ -177,16 +179,14 @@ html, body {
 		    .search-results {
 			flex-direction: column;
 			}
-			.result-wrap {
-			
-			padding-right: 50px;
-			padding-left: 50px;
-		}
+
 			.row-1 {
 				flex-direction: column;
 				width: 100%;
 			}
 			.box {
 				width:  100%;
+				text-align: center;
+
 			}
 		}
